@@ -30,13 +30,11 @@
 
 ## 🔄 Yenilikler (v1.3)
 
-| Özellik | Açıklama |
-| :--- | :--- |
-| **📰 Haberler** | Modern kart tasarımıyla tamamen yenilendi. |
-| **🦶 Footer** | Kullanıcı isteği üzerine orijinal sade haline döndürüldü. |
-| **✉️ Mesajlar** | Başkan'a Mesaj Gönder formu eklendi. |
-| **🖼️ Galeri** | Resim yükleme ve görüntüleme sorunları giderildi. |
-| **🌐 Altyapı** | Domain `baktrad.org.tr` olarak güncellendi. |
+| **🎨 UI/UX Refactor** | 
+| **⚡ Footer Rollback** | 
+| **📬 Backend Logic** | 
+| **📂 Path Resolution** | 
+| **🌍 Domain Migration** | 
 
 ## 🔧 Kurulum
 
