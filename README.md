@@ -26,7 +26,6 @@
 - 📰 **Haberler:** Dernekten güncel haberler ve duyurular.
 - 🛰️ **ISS Takip:** Uluslararası Uzay İstasyonu canlı konumu.
 - 🏛️ **Kurumsal:** Dernek tüzüğü, yönetim ve tarihçe bilgileri.
-- ✉️ **İletişim:** Başkan'a doğrudan mesaj gönderme imkanı.
 
 ## 🔄 Yenilikler (v1.3)
 
