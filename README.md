@@ -13,9 +13,9 @@ Resmi Mobil Uygulaması
 ## 📸 Ekran Görüntüleri
 
 <p align="center">
-  <img src="01.jpg" width="18%" alt="Ana sayfa"/>
-  <img src="02.jpg" width="18%" alt="Ana Sayfa-2"/>
-  <img src="03.jpg" width="18%" alt="içerik"/>
+  <img src="https://github.com/ta2cay/BAKTRADmobil/blob/main/01.jpeg" width="18%" alt="Ana sayfa"/>
+  <img src="https://github.com/ta2cay/BAKTRADmobil/blob/main/02.jpeg" width="18%" alt="Ana Sayfa-2"/>
+  <img src="https://github.com/ta2cay/BAKTRADmobil/blob/main/03.jpeg" width="18%" alt="içerik"/>
 
 </p>
 
