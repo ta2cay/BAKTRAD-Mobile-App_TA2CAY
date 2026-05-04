@@ -13,11 +13,10 @@ Resmi Mobil Uygulaması
 ## 📸 Ekran Görüntüleri
 
 <p align="center">
-  <img src="screenshots/01-splash.jpg" width="18%" alt="Açılış Ekranı"/>
-  <img src="screenshots/02-anasayfa.jpg" width="18%" alt="Ana Sayfa"/>
-  <img src="screenshots/03-cevrim.jpg" width="18%" alt="Çevrim Listesi"/>
-  <img src="screenshots/04-istatistik.jpg" width="18%" alt="İstatistikler"/>
-  <img src="screenshots/05-propagasyon.jpg" width="18%" alt="Propagasyon"/>
+  <img src="01.jpg" width="18%" alt="Ana sayfa"/>
+  <img src="02.jpg" width="18%" alt="Ana Sayfa-2"/>
+  <img src="03.jpg" width="18%" alt="içerik"/>
+
 </p>
 
 ---
