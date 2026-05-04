@@ -10,6 +10,18 @@ Resmi Mobil Uygulaması
 
 ---
 
+## 📸 Ekran Görüntüleri
+
+<p align="center">
+  <img src="screenshots/01-splash.jpg" width="18%" alt="Açılış Ekranı"/>
+  <img src="screenshots/02-anasayfa.jpg" width="18%" alt="Ana Sayfa"/>
+  <img src="screenshots/03-cevrim.jpg" width="18%" alt="Çevrim Listesi"/>
+  <img src="screenshots/04-istatistik.jpg" width="18%" alt="İstatistikler"/>
+  <img src="screenshots/05-propagasyon.jpg" width="18%" alt="Propagasyon"/>
+</p>
+
+---
+
 ## 📱 Uygulama Hakkında
 
 BAKTRAD Mobil, Batı Karadeniz bölgesindeki amatör telsizci topluluğunun haftalık çevrim (net) kayıtlarını, istatistiklerini ve arşivini mobil cihazlardan yönetmek için geliştirilmiş bir **Progressive Web App (PWA)**'dır.
