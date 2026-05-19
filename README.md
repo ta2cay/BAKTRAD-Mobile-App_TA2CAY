@@ -30,7 +30,7 @@ BAKTRAD Mobil, ülkemizdeki amatör radyo ve telsiz istasyonlarının haftalık 
 
 ---
 
-## ✨ v4.0 Yenilikleri
+## ✨ v4.1 Yenilikleri
 
 | Özellik | Açıklama |
 |---|---|
