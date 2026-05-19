@@ -1,4 +1,4 @@
-# 📡 BAKTRAD Mobil v4.0
+# 📡 BAKTRAD Mobil v4.1
 
 **Batı Karadeniz Telsiz ve Radyo Amatörleri Derneği**  
 Resmi Mobil Uygulaması
